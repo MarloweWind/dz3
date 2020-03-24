@@ -33,3 +33,4 @@ var truck = vehicle(brand: "Газель", release: 2005, luggage: 500, engine: 
 car.engine = .start
 truck.windows = .close
 print("Машина марки \(car.brand) выпущена в \(car.release).")
+//на проверку
